@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+c#/sharpwrt/.vs
+c#/sharpwrt/sharpwrt/obj
+c#/sharpwrt/sharpwrt/bin/
